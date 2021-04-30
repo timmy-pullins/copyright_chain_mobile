@@ -1,5 +1,7 @@
 # copyright_chain_mobile
-copyright chain mobile
+
+
+This project is based on the copyright chain to develop the application of Android operating system. After the development, the available download package will be published in this project
 
 
 Project progress
