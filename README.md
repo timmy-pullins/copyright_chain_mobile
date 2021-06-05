@@ -10,3 +10,9 @@ Content | Completion time
 ------------ | -------------
 Wallet management, copyright retrieval, copyright download, copyright purchase | May 22th
 Video database | July 26th
+
+
+<a href="http://d.6boat.com/rduf">Public Beta APP Download</a>
+
+
+
