@@ -12,7 +12,7 @@ Wallet management, copyright retrieval, copyright download, copyright purchase |
 Video database | July 26th
 
 
-<a href="http://d.6boat.com/rduf">Public Beta APP Download</a>
+<a href="http://d.6boat.com/rduf">Beta 1.0.0 APP Download</a>
 
 
 
