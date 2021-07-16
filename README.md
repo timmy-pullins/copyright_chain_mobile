@@ -11,9 +11,6 @@ Content | Completion time
 Wallet management, copyright retrieval, copyright download, copyright purchase | May 22th
 Video database | July 26th
 
-<a href="http://d.6boat.com/rduf">Beta 1.0.1 APP Download</a>
-
-
 <H3 id="download"> version update history</h3>
 <p>Version: <strong> 1.0.0 </strong></p>
 <p>
